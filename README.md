@@ -1,0 +1,2 @@
+# LittleCompiler
+algorithms practice
